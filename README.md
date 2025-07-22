@@ -1,32 +1,37 @@
-# STATLAB
 # 📊 STATLAB: Statistical Modeling and Machine Learning Projects
 
-Welcome to **STATLAB**, a comprehensive collection of projects covering key topics in statistics, data science, and machine learning. This repository contains academic and practical implementations across various statistical domains, including categorical data analysis, time series forecasting, actuarial mathematics, and more.
+**STATLAB** is a curated academic portfolio of applied statistical and machine learning analyses using real-world and synthetic datasets. This repository features practical implementations in **R** and **Python**, covering topics from classical statistics to modern ML workflows.
 
 ---
 
-## 🧠 Project Topics
+## 📁 Contents
 
-The repository includes solved problems, simulations, and model implementations on:
+This repository includes the following topics:
 
-- 📌 **Categorical Data Analysis** (Chi-square tests, ANOVA, visualization)
-- 📈 **Time Series Analysis** (ARIMA, seasonal decomposition)
-- 🤖 **Machine Learning** (Data leakage, train/test splits, comparisons)
-- 📐 **Statistical Simulation & Data Processing**
-- ➗ **Actuarial Mathematics** (4103-level computations)
-- 🌐 **Comparison of ARIMA vs ML Approaches**
-- 🔁 **Sinusoidal Modeling** and function analysis
-
----
-
-## 🛠️ Tech Stack
-
-- **R** and **Python** for computation and modeling
-- **Jupyter Notebooks** / R scripts for interactive exploration
-- **Excel** for raw data and manual calculations
-
+| Topic                                    | Language | File(s) |
+|-----------------------------------------|----------|---------|
+| Categorical Data Analysis               | R        | `Categorical Data Analysis STAT41.R` |
+| Time Series Forecasting (ARIMA)         | Python   | `ARIMA.ipynb` |
+| ARIMA vs Machine Learning Comparison    | Python   | `ARIMA vs ML.ipynb` |
+| Statistical Simulation & Processing     | R        | `Statistical Simulation and Data Processing.R` |
+| Sin Function Simulation                 | R        | `sin-function.R` |
+| Actuarial Mathematics (STAT 4103)       | R        | `Actuarial Mathematics (4103).R` |
+| Proper Data Splits vs Data Leakage      | Python   | `Machine Learning- Proper Data Splits vs. Data Leakage.ipynb` |
 
 ---
 
+## 🛠 Technologies Used
 
+- **R**: Data simulation, modeling, visualization
+- **Python**: Time series and ML analysis using `pandas`, `scikit-learn`, `statsmodels`
+- **Jupyter Notebook**: Interactive exploration
+- **GitHub Issues**: Tracking and documenting progress
 
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/abubokkorshiddik/STATLAB.git
+   cd STATLAB
